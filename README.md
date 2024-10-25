@@ -25,7 +25,7 @@ Database: (MySQL)
 
 #Installation 
 > clone the repository
-git clone https://github.com/your-username/lungcare.git
+git clone https://github.com/Bradley-makuke/lungcare.git
 cd lungcare
 > install dependencies
 npm install
